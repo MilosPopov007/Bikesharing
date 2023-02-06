@@ -30,3 +30,9 @@ A key piece of data we need is the peak usage hours for the month of August. Thi
 [Top Starting Locations](https://public.tableau.com/app/profile/milos.popov/viz/Module15Challenge_16754567361060/NumberofRidesCitiBikeNYCsOfficialBikeSharingSystemTheMonthofAugust)
 
 Now we're going to use the data to find the most popular stations in the city for starting a bike journey. This data will help us plan the  bike numbers for certain locations.
+
+![This is an image](https://github.com/MilosPopov007/Bikesharing/blob/main/NYC%20Bike/Top%20Ending%20Locations.png)
+
+[Top Ending Locations](https://public.tableau.com/app/profile/milos.popov/viz/Module15Challenge_16754567361060/NumberofRidesCitiBikeNYCsOfficialBikeSharingSystemTheMonthofAugust)
+
+Now we know where customers are beginning their bike rental journeys. But where do they drop off the bikes ? Symbol map will show us most popular places to end a bike ride.
