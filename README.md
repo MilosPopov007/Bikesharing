@@ -72,3 +72,9 @@ In this visualization, I graph the length of time that bikes are checked out for
 [Trips by Weekday for Each Hour](https://public.tableau.com/app/profile/milos.popov/viz/Module15Challenge_16754567361060/NumberofRidesCitiBikeNYCsOfficialBikeSharingSystemTheMonthofAugust)
 
 Trips by Weekday for Each Hour will help us plan bike utilization "Rush Hours". The darker red on the heat map shows us the "Peaks".
+
+![This is an image](https://github.com/MilosPopov007/Bikesharing/blob/main/NYC%20Bike/Trips%20by%20Gender%20.png)
+
+[ Trips by Gender (Weekday per Hour)](https://public.tableau.com/app/profile/milos.popov/viz/Module15Challenge_16754567361060/NumberofRidesCitiBikeNYCsOfficialBikeSharingSystemTheMonthofAugust)
+
+ The darker red on the heat map shows us the "Peaks" utilization for each gender. This will be good data for our marketing strategy.
