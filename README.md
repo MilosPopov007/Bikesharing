@@ -78,3 +78,9 @@ Trips by Weekday for Each Hour will help us plan bike utilization "Rush Hours". 
 [ Trips by Gender (Weekday per Hour)](https://public.tableau.com/app/profile/milos.popov/viz/Module15Challenge_16754567361060/NumberofRidesCitiBikeNYCsOfficialBikeSharingSystemTheMonthofAugust)
 
  The darker red on the heat map shows us the "Peaks" utilization for each gender. This will be good data for our marketing strategy.
+ 
+ ![This is an image](https://github.com/MilosPopov007/Bikesharing/blob/main/NYC%20Bike/Users%20trips%20by%20Gender.png)
+ 
+ [User Trips by Gender by Weekday](https://public.tableau.com/app/profile/milos.popov/viz/Module15Challenge_16754567361060/NumberofRidesCitiBikeNYCsOfficialBikeSharingSystemTheMonthofAugust)
+ 
+Another piece of data you'll want to look into is the number of short-term customers and annual subscribers to the Citi Bike service. This will help us determine the types of customers we could expect for a bike-sharing company. NY Citibike primary subscribers are men.
