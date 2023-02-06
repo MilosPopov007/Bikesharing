@@ -18,3 +18,9 @@ Using Python and Pandas functions, I convert the "trip duration" column from an 
 [Number of Rides Citi Bike: NYC's Official Bike Sharing System (The Month of August)](https://public.tableau.com/app/profile/milos.popov/viz/Module15Challenge_16754567361060/NumberofRidesCitiBikeNYCsOfficialBikeSharingSystemTheMonthofAugust)
 
 After thinking through various questions, you settle on the first question you would like the data to answer: how many bike trips were recorded during the month of August? Since August is a beautiful time of the year to rent a bike, we want to use this data as a starting point to determine how many rides we could expect. NY Citibike recorded 2,344,224 trips in the month of August 2019.
+
+
+![This is an image](https://github.com/MilosPopov007/Bikesharing/blob/main/NYC%20Bike/August%20Peak%20Hours.png)
+[August Peak Hours](https://public.tableau.com/app/profile/milos.popov/viz/Module15Challenge_16754567361060/NumberofRidesCitiBikeNYCsOfficialBikeSharingSystemTheMonthofAugust?publish=yes)  
+
+A key piece of data we need is the peak usage hours for the month of August. This will help us get a better idea of how many bikes we might need for our local business as well as figure out during which parts of the day we'll need the most bikes. For example, if we need to do maintenance on a bike, knowing the peak usage hours will help us plan for the best time to do that. Looking at Bar graph we can conclude that peak hours are around 8 a.m. and 5 p.m. this data indicates  that a lot of Newyorkers use Citibike for their work commute.
