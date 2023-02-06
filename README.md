@@ -61,3 +61,9 @@ The bubbles in this plot show the bike utilization levels. If a bike has a highe
 
 In this visualization, I graph the length of time that bikes are checked out for all riders. Most checkout times are under 20 min.
 
+![This is an image](https://github.com/MilosPopov007/Bikesharing/blob/main/NYC%20Bike/Checkout%20time%20by%20gender.png)
+
+[Checkout Times by Gender](https://public.tableau.com/app/profile/milos.popov/viz/Module15Challenge_16754567361060/NumberofRidesCitiBikeNYCsOfficialBikeSharingSystemTheMonthofAugust)
+
+In this visualization, I graph the length of time that bikes are checked out for each gender. Men are among the primary users of Citibike.
+
