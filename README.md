@@ -14,3 +14,7 @@ Using Python and Pandas functions, I convert the "trip duration" column from an 
 
 
 ![This is an image](https://github.com/MilosPopov007/Bikesharing/blob/main/NYC%20Bike/Number%20of%20Rides.png)
+
+[Number of Rides Citi Bike: NYC's Official Bike Sharing System (The Month of August)](https://public.tableau.com/app/profile/milos.popov/viz/Module15Challenge_16754567361060/NumberofRidesCitiBikeNYCsOfficialBikeSharingSystemTheMonthofAugust)
+
+After thinking through various questions, you settle on the first question you would like the data to answer: how many bike trips were recorded during the month of August? Since August is a beautiful time of the year to rent a bike, we want to use this data as a starting point to determine how many rides we could expect. NY Citibike recorded 2,344,224 trips in the month of August 2019.
