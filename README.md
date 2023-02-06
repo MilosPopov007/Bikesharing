@@ -9,3 +9,5 @@ Last summer, I and my friend Kate took the trip of a lifetime, New York City, fo
 ## Results:
 
 For this project, we'll use data from the Citi Bike ([https://citibikenyc.com/](https://citibikenyc.com/)) program in New York City. This data includes a variety of fields ([https://citibikenyc.com/system-data](https://citibikenyc.com/system-data)) stored in a flat file, a CSV.
+
+Using Python and Pandas functions, I convert the "trip duration" column from an integer to a datetime data type to get the time in hours, minutes, and seconds (00:00:00). After  converting the "trip duration" column to a datetime dataytpe, I exported the [DataFrame](https://github.com/MilosPopov007/Bikesharing/blob/main/NYC_Citibike_Challenge.ipynb) as a CSV file to use for the trip analysis.
