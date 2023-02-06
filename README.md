@@ -41,4 +41,5 @@ Now we know where customers are beginning their bike rental journeys. But where 
 
 [Average Trip Duration by Age](https://public.tableau.com/app/profile/milos.popov/viz/Module15Challenge_16754567361060/NumberofRidesCitiBikeNYCsOfficialBikeSharingSystemTheMonthofAugust) 
 
-Let's take a look at the average duration of a bike ride, by age. This will help us set expectations for our trip duration.
+Let's take a look at the average duration of a bike ride, by age. This will help us set expectations for our trip duration. On average users 20 to 30 years old are likely to take longer rides.
+
