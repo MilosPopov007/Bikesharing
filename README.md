@@ -43,3 +43,9 @@ Now we know where customers are beginning their bike rental journeys. But where 
 
 Let's take a look at the average duration of a bike ride, by age. This will help us set expectations for our trip duration. On average users 20 to 30 years old are likely to take longer rides.
 
+![This is an image](https://github.com/MilosPopov007/Bikesharing/blob/main/NYC%20Bike/Bike%20repairs.png)
+
+[Bike Rapairs](https://public.tableau.com/app/profile/milos.popov/viz/Module15Challenge_16754567361060/NumberofRidesCitiBikeNYCsOfficialBikeSharingSystemTheMonthofAugust)
+
+Bike maintenance will likely be one of the biggest expenses. The bikes used most frequently will probably be the ones that require the most maintenance, so we'll need to determine which bikes have the highest sum of "Number of Rides". Treemap will give an idea of how often each bike is used, and then note which ones are used most frequently.
+
