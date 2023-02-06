@@ -24,3 +24,9 @@ After thinking through various questions, you settle on the first question you w
 [August Peak Hours](https://public.tableau.com/app/profile/milos.popov/viz/Module15Challenge_16754567361060/NumberofRidesCitiBikeNYCsOfficialBikeSharingSystemTheMonthofAugust?publish=yes)  
 
 A key piece of data we need is the peak usage hours for the month of August. This will help us get a better idea of how many bikes we might need for our local business as well as figure out during which parts of the day we'll need the most bikes. For example, if we need to do maintenance on a bike, knowing the peak usage hours will help us plan for the best time to do that. Looking at Bar graph we can conclude that peak hours are around 8 a.m. and 5 p.m. this data indicates  that a lot of Newyorkers use Citibike for their work commute.
+
+![This is an image](https://github.com/MilosPopov007/Bikesharing/blob/main/NYC%20Bike/Top%20Starting%20Locations.png)
+
+[Top Starting Locations](https://public.tableau.com/app/profile/milos.popov/viz/Module15Challenge_16754567361060/NumberofRidesCitiBikeNYCsOfficialBikeSharingSystemTheMonthofAugust)
+
+Now we're going to use the data to find the most popular stations in the city for starting a bike journey. This data will help us plan the  bike numbers for certain locations.
