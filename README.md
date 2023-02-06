@@ -36,3 +36,9 @@ Now we're going to use the data to find the most popular stations in the city fo
 [Top Ending Locations](https://public.tableau.com/app/profile/milos.popov/viz/Module15Challenge_16754567361060/NumberofRidesCitiBikeNYCsOfficialBikeSharingSystemTheMonthofAugust)
 
 Now we know where customers are beginning their bike rental journeys. But where do they drop off the bikes ? Symbol map will show us most popular places to end a bike ride.
+
+![This is an image](https://github.com/MilosPopov007/Bikesharing/blob/main/NYC%20Bike/Average%20trip%20duration%20by%20age.png)
+
+[Average Trip Duration by Age](https://public.tableau.com/app/profile/milos.popov/viz/Module15Challenge_16754567361060/NumberofRidesCitiBikeNYCsOfficialBikeSharingSystemTheMonthofAugust) 
+
+Let's take a look at the average duration of a bike ride, by age. This will help us set expectations for our trip duration.
