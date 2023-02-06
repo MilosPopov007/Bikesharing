@@ -67,3 +67,8 @@ In this visualization, I graph the length of time that bikes are checked out for
 
 In this visualization, I graph the length of time that bikes are checked out for each gender. Men are among the primary users of Citibike.
 
+![This is an image](https://github.com/MilosPopov007/Bikesharing/blob/main/NYC%20Bike/Trips%20by%20weekday%20for%20each%20hour.png)
+
+[Trips by Weekday for Each Hour](https://public.tableau.com/app/profile/milos.popov/viz/Module15Challenge_16754567361060/NumberofRidesCitiBikeNYCsOfficialBikeSharingSystemTheMonthofAugust)
+
+Trips by Weekday for Each Hour will help us plan bike utilization "Rush Hours". The darker red on the heat map shows us the "Peaks".
