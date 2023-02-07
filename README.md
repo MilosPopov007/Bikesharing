@@ -21,9 +21,18 @@ After thinking through various questions, you settle on the first question you w
 
 
 ![This is an image](https://github.com/MilosPopov007/Bikesharing/blob/main/NYC%20Bike/August%20Peak%20Hours.png)
+
 [August Peak Hours](https://public.tableau.com/app/profile/milos.popov/viz/Module15Challenge_16754567361060/NumberofRidesCitiBikeNYCsOfficialBikeSharingSystemTheMonthofAugust?publish=yes)  
 
 A key piece of data we need is the peak usage hours for the month of August. This will help us get a better idea of how many bikes we might need for our local business as well as figure out during which parts of the day we'll need the most bikes. For example, if we need to do maintenance on a bike, knowing the peak usage hours will help us plan for the best time to do that. Looking at Bar graph we can conclude that peak hours are around 8 a.m. and 5 p.m. this data indicates  that a lot of Newyorkers use Citibike for their work commute.
+
+
+![This is an image](https://github.com/MilosPopov007/Bikesharing/blob/main/NYC%20Bike/Customer%20Type.png)
+
+[Customer Type](https://public.tableau.com/app/profile/milos.popov/viz/Module15Challenge_16754567361060/CustomerType?publish=yes)
+
+
+The Proportion of Short Term Customers to Annual Subscribers Data shows us that the number of trips by Subscribers of NY Citi Bike was 1,900,359 vs. Single Customer Rides of 443,865 for the month of August. New York Citi Bike offers Annual Membership Subscription, Single Ride and Daily Pass ([https://citibikenyc.com/pricing](https://citibikenyc.com/pricing)). We want as many subscribers as we can get.  Promoting a healthy lifestyle and with the  help of a rising gas prices we are on the right track.
 
 ![This is an image](https://github.com/MilosPopov007/Bikesharing/blob/main/NYC%20Bike/Top%20Starting%20Locations.png)
 
