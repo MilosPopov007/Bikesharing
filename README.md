@@ -94,3 +94,13 @@ We can conclude that NY Citi Bike is widely used for daily work commute. "Rush H
  [User Trips by Gender by Weekday](https://public.tableau.com/app/profile/milos.popov/viz/Module15Challenge_16754567361060/NumberofRidesCitiBikeNYCsOfficialBikeSharingSystemTheMonthofAugust)
  
 Another piece of data we want to look into is the number of short-term customers and annual subscribers to the Citi Bike service. This will help us determine the types of customers we could expect for a bike-sharing company. NY Citibike primary subscribers are men.
+
+
+### Summary:
+
+Bike-share programs generate a number of economic and personal benefits. 
+Less pollution - Not only do bike-share systems intend to reduce traffic congestion, they also aim to reduce air pollution through decreased automobile usage, and indirectly through the reduction of congestion. The study on D.C.'s Capital Bikeshare estimated that the reduction in traffic congestion would be equivalent to roughly $1.28 million in annual benefits, accrued through the reduction in congestion-induced CO2 emissions.[^1] 
+[^1]: Hamilton, Timothy; Wichman, Casey (20 August 2015). Bicycle Infrastructure and Traffic Congestion: Evidence from DC's Capital Bikeshare (Technical report).
+
+Separate study of transportation in Australia estimated that 1.5 kilograms of CO2 equivalent emissions are avoided by an urban resident who travels 5 kilometers by cycling rather than by car during rush hour periods.[^2] 
+[^2]: Bonham, Jennifer (2005). "Economics of everyday cycling and cycling facilities". Cycling Futures.
