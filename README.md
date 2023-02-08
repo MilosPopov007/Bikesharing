@@ -99,8 +99,16 @@ Another piece of data we want to look into is the number of short-term customers
 ### Summary:
 
 Bike-share programs generate a number of economic and personal benefits. 
+
 Less pollution - Not only do bike-share systems intend to reduce traffic congestion, they also aim to reduce air pollution through decreased automobile usage, and indirectly through the reduction of congestion. The study on D.C.'s Capital Bikeshare estimated that the reduction in traffic congestion would be equivalent to roughly $1.28 million in annual benefits, accrued through the reduction in congestion-induced CO2 emissions.[^1] 
 [^1]: Hamilton, Timothy; Wichman, Casey (20 August 2015). Bicycle Infrastructure and Traffic Congestion: Evidence from DC's Capital Bikeshare (Technical report).
 
 Separate study of transportation in Australia estimated that 1.5 kilograms of CO2 equivalent emissions are avoided by an urban resident who travels 5 kilometers by cycling rather than by car during rush hour periods.[^2] 
 [^2]: Bonham, Jennifer (2005). "Economics of everyday cycling and cycling facilities". Cycling Futures.
+
+Healthy transport - Bicycle-sharing systems have been shown to have a strong net positive health effect[^3]
+[^3]: Woodcock, James; Tainio, Marko; Cheshire, James; O'Brien, Oliver; Goodman, Anna (13 February 2014). "Health effects of the London bicycle sharing system: health impact modelling study"
+
+The report from Centers for Disease Control and Prevention (CDC) point out that cycling also help preventing disease like obesity, heart disease (can reduce up to 82%) and diabetes (can reduce up to 58%). Therefore, bicycle-sharing systems has a positive effect on mental and physical health, which attract more people to use. 
+
+
