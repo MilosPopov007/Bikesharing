@@ -80,7 +80,8 @@ Visualization graph for the length of time that bikes are checked out for each g
 
 [Trips by Weekday for Each Hour](https://public.tableau.com/app/profile/milos.popov/viz/Module15Challenge_16754567361060/NumberofRidesCitiBikeNYCsOfficialBikeSharingSystemTheMonthofAugust)
 
-Trips by Weekday for Each Hour will help us plan bike utilization "Rush Hours". The darker red on the heat map shows us the "Peaks". We can conclude that NY Citi Bike is widely used for daily work commute. "Rush Hours" are 8 a.m. and 5 p.m.
+Trips by Weekday for Each Hour will help us plan bike utilization "Rush Hours". The darker red on the heat map shows us the "Peaks". <br />
+We can conclude that NY Citi Bike is widely used for daily work commute. "Rush Hours" are 8 a.m. and 5 p.m.
 
 ![This is an image](https://github.com/MilosPopov007/Bikesharing/blob/main/NYC%20Bike/Trips%20by%20Gender%20.png)
 
