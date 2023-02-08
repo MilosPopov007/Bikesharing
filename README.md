@@ -113,7 +113,14 @@ The report from Centers for Disease Control and Prevention (CDC) point out that 
 
 Reduced car parking - Bike-share programs, especially the earlier services that required docking areas along urban streets, may encroach upon the space available for on-street car parking and other auto-centric uses. While some argue that this is a negative, it is generally considered a positive side effect, since it helps further the transition away from car-dependency
 
-Less traffic congestion - A primary goal of bicycle-sharing systems has been to reduce traffic congestion, particularly in large urban areas. Some empirical evidence indicates that this goal has been achieved to varying degrees in different cities. A 2015 article in Transport Reviews examined bike-share systems in five cities, including Washington, D.C. and Minneapolis. The article found that in D.C., individuals substituted bike-share rides for automobile trips 8 percent of the time, and almost 20 percent of the time in Minneapolis.[^4]
+Less traffic congestion - A primary goal of bicycle-sharing systems has been to reduce traffic congestion, particr ularly in large urban areas. Some empirical evidence indicates that this goal has been achieved to varying degrees in different cities. A 2015 article in Transport Reviews examined bike-share systems in five cities, including Washington, D.C. and Minneapolis. The article found that in D.C., individuals substituted bike-share rides for automobile trips 8 percent of the time, and almost 20 percent of the time in Minneapolis.[^4]
 [^4]: Fishman, Elliot (April 2015). "Bikeshare: A Review of Recent Literature". Transport Reviews
+
+
+Looking at NY Citi Bike Data and Visualisation that I made, we can have a fair picture what we can expect from our ride-sharing venture. There is an additional analysis that we can add and that will include a seasonality, bike terrain and weather data for future exploration.
+
+In this Data set we can make analogy with Colorado as a very popular turist spot and I would sugest two additional visualizations:
+* Starting and Ending points, for Customers who are very most likely tourist, but locals as well and learn about their trip habits, locations and trip durations in order to increase Non Subscriber customer numbers.
+* Trip duration in regards to Stations ID (locations), so we can increase or decrease the number of Bikes available or even create a new station.
 
 
